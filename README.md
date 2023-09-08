@@ -5,5 +5,5 @@ Simple tool to encode PowerShell commands to base64
 Clone from repo
 
 ```
-$ go run main.go 'your PowerShell command"
+$ go run main.go 'PowerShell command"
 ```
